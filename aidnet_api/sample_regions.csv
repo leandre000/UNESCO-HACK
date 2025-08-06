@@ -1,0 +1,5 @@
+region_id,child_population,conflict_risk,food_insecurity,school_destruction_rate,water_access,recent_aid_delivered,displacement_level
+R1,4500,7,2,45.5,2,0,1500
+R2,3200,5,1,30.0,1,1,800
+R3,9000,9,2,80.0,2,0,4000
+R4,1200,3,0,10.0,0,1,200 

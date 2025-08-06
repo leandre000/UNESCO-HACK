@@ -1,0 +1,22 @@
+{
+  "regions": [
+    {
+      "child_population": 4500,
+      "conflict_risk": 7,
+      "food_insecurity": 2,
+      "school_destruction_rate": 45.5,
+      "water_access": 2,
+      "recent_aid_delivered": 0,
+      "displacement_level": 1500
+    },
+    {
+      "child_population": 8000,
+      "conflict_risk": 3,
+      "food_insecurity": 1,
+      "school_destruction_rate": 10.0,
+      "water_access": 1,
+      "recent_aid_delivered": 1,
+      "displacement_level": 500
+    }
+  ]
+}
