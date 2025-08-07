@@ -4,4 +4,7 @@ pydantic
 joblib
 scikit-learn
 numpy
-pandas 
+pandas
+requests
+python-dotenv
+loguru
